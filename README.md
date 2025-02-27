@@ -21,4 +21,5 @@ This repository contains a collection of astrophysics coding projects that demon
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/Astrophysics_Coding_Sample_SyedTufail.git
+   git clone https://github.com/SyedTufailHussain/Astrophysical-Data-Analysis-Simulation-Syed-Tufail-Hussain.git
+
