@@ -1,4 +1,4 @@
-# Astrophysics Coding Sample – Syed Tufail Hussain
+# Astrophysical Data Analysis & Simulation – Syed Tufail Hussain
 
 This repository contains a collection of astrophysics coding projects that demonstrate methods for data processing, simulation, and visualization using Python. The projects reflect my work in analyzing real astrophysical data and modeling cosmic phenomena.
 
