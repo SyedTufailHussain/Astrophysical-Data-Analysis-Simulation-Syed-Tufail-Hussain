@@ -1,0 +1,8 @@
+WD Luminosity Cooling (0.6 Solar Mass)
+
+Overview:
+This Python script (`wd_cooling_curve.py`) plots a simple cooling curve showing how a 0.6 Msun white dwarf's luminosity changes from 0 to 12 Gyr. We define a few key points, then use PCHIP interpolation to make a smooth track.
+
+Key Steps:
+- We take log10(L) to interpolate more smoothly.
+- We plot luminosity vs. time, optionally in log scale.

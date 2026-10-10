@@ -1,0 +1,5 @@
+FITS Analysis: 6397.fits
+
+What This Code Does  
+- Loads `6397.fits` (archival data).
+- Performs background subtraction (sigma-clipped), masks bright sources, computes a 2D power spectrum, and plots all steps in a single figure.
